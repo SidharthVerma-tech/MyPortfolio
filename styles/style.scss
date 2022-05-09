@@ -560,6 +560,10 @@ section{
         background-color: var(--color-grey-5);
         color: grey;
     }
+    .submit-btn:hover{
+        background-color: black;
+        cursor: pointer;
+    }
     .about p{
         display: flex;
         justify-content: center;
